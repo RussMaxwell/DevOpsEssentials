@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\aboutus-ab9da0d4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\aboutus-ab9da0d4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\ajax-loader-e7b44c86.gif",
+      "PackagePath": "staticwebassets\\assets\\ajax-loader-e7b44c86.gif"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\fncyunderline-f9078c72.png",
+      "PackagePath": "staticwebassets\\assets\\fncyunderline-f9078c72.png"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\heroimg-4da00a80.png",
+      "PackagePath": "staticwebassets\\assets\\heroimg-4da00a80.png"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\index-8788af8b.css",
+      "PackagePath": "staticwebassets\\assets\\index-8788af8b.css"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\index-a9fc9019.js",
+      "PackagePath": "staticwebassets\\assets\\index-a9fc9019.js"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\pizzamenu-6acf1fd4.png",
+      "PackagePath": "staticwebassets\\assets\\pizzamenu-6acf1fd4.png"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\slick-12459f22.svg",
+      "PackagePath": "staticwebassets\\assets\\slick-12459f22.svg"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\smmenu1-bad636ca.png",
+      "PackagePath": "staticwebassets\\assets\\smmenu1-bad636ca.png"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\assets\\smmenu2-95d39d6f.png",
+      "PackagePath": "staticwebassets\\assets\\smmenu2-95d39d6f.png"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\russm\\OneDrive\\Training\\myTraining\\Solutions\\work\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.work.props",
+      "PackagePath": "build\\work.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.work.props",
+      "PackagePath": "buildMultiTargeting\\work.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.work.props",
+      "PackagePath": "buildTransitive\\work.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.work.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
